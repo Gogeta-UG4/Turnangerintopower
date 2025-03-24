@@ -510,7 +510,7 @@ while running:
             newmob()
         end_level=False
         mob_count = 0
-        level=4
+        level=1
         lev = 1
         boss_level=False
 
